@@ -51,8 +51,6 @@ services:
       - DATABASE_USER=postgres
       - DATABASE_PASSWORD=123456
       - DATABASE_NAME=backend-data-handling
-      - DATABASE_SYNCHRONIZE
-      - NODE_ENV
 ```
 
 ### create file Dockerfile
